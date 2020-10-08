@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+### About Me
+I am Fatemeh Hashemzadeh and I have a great interest in learning computer and sports and I am a friend of these two disciplines so that I can continue and become a professional so that I can be satisfied with myself and make my relatives proud. If I want to get something, God willing, I am a hard worker
+### Skills
+ + Sport
+.
+.
+.
+###Contact Me
+-Gmail:mailto:fatemehhashemzadeh7810@gmail.com
+- Quera Profile: <a href="https://quera.ir/profile/fatemehhashemzadeh7810">My Profile</a>
 
-You can use the [editor on GitHub](https://github.com/fatemehashemzade/fatemeh78/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fatemehashemzade/fatemeh78/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+من فاطمه هاشم زاده هستم و علاقه زیادی به یادگیری کامپیوتر و ورزش دارم و دوست این دو رشته هستم تا بتوانم ادامه دهم و حرفه ای شوم تا بتوانم از خودم راضی باشم و بستگانم را سربلند کنم. اگر انشاالله بخواهم چیزی بدست آورم ، سخت کوش هستم
