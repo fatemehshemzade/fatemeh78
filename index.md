@@ -37,9 +37,10 @@ First name: fatemeh
 Last name:hashemzadeh
 
 ### work experience
-an acountant in the eileen company 
+an acountant in the eileen company for 2years old
 
-###راجع به خودم
+راجع یه خودم ###
+
 من فاطمه هاشم زاده هستم و علاقه زیادی به یادگیری کامپیوتر و ورزش دارم و دوست این دو رشته هستم تا بتوانم ادامه دهم و حرفه ای شوم تا بتوانم از خودم راضی باشم و بستگانم را سربلند کنم. اگر انشاالله بخواهم چیزی بدست آورم ، سخت کوش هستم 
 
 ### اطلاعات شخصی 
@@ -49,7 +50,7 @@ an acountant in the eileen company
 
 ### زبان
 فارسی 
-متوسط)انگلیسی) 
+انگلیسی
 ترکی
 ### مهارت ها
 ورزش
@@ -68,7 +69,7 @@ an acountant in the eileen company
 
 ### سابقه ی کاری
  
-یک‌حسابدار در شرکت ایلین
+یک‌حسابدار در شرکت ایلین به مدت ۲سال
 
 ### ارتباط با من
 
