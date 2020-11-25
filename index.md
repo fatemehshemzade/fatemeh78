@@ -36,14 +36,6 @@ First name: fatemeh
 
 Last name:hashemzadeh
 
-##language
-
-Persion
-
-English(mabay)
-
-Tukey
-
 ### work experience
 an acountant in the eileen company 
 
